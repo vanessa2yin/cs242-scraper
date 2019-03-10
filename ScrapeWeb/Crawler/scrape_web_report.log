@@ -1,0 +1,167 @@
+INFO 2019-03-04 11:51:26,554 - Crawler starts. Start url: https://en.wikipedia.org/wiki/George_Clooney#Filmography
+INFO 2019-03-04 11:51:27,249 - Successfully fetch data from actor_url: https://en.wikipedia.org/wiki/George_Clooney#Filmography
+INFO 2019-03-04 11:51:27,250 - Actor count = 1
+INFO 2019-03-04 11:51:27,698 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Suburbicon
+INFO 2019-03-04 11:51:27,698 - Movie count = 1
+WARNING 2019-03-04 11:51:29,081 - Cannot fetch complete data from actor_url: https://wikipedia.org/wiki/Matt_Damon
+INFO 2019-03-04 11:51:29,538 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Money_Monster
+INFO 2019-03-04 11:51:29,538 - Movie count = 2
+INFO 2019-03-04 11:51:30,898 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Julianne_Moore
+INFO 2019-03-04 11:51:30,898 - Actor count = 2
+INFO 2019-03-04 11:51:31,480 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Hail,_Caesar!
+INFO 2019-03-04 11:51:31,480 - Movie count = 3
+INFO 2019-03-04 11:51:32,850 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Noah_Jupe
+INFO 2019-03-04 11:51:32,850 - Actor count = 3
+INFO 2019-03-04 11:51:33,369 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Tomorrowland_(film)
+INFO 2019-03-04 11:51:33,369 - Movie count = 4
+INFO 2019-03-04 11:51:34,545 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Oscar_Isaac
+INFO 2019-03-04 11:51:34,545 - Actor count = 4
+INFO 2019-03-04 11:51:34,994 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/The_Monuments_Men
+INFO 2019-03-04 11:51:34,995 - Movie count = 5
+INFO 2019-03-04 11:51:36,340 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Julia_Roberts
+INFO 2019-03-04 11:51:36,340 - Actor count = 5
+INFO 2019-03-04 11:51:36,981 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Gravity_(2013_film)
+INFO 2019-03-04 11:51:36,981 - Movie count = 6
+INFO 2019-03-04 11:51:38,551 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Jack_O%27Connell_(actor)
+INFO 2019-03-04 11:51:38,551 - Actor count = 6
+INFO 2019-03-04 11:51:38,999 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/The_Descendants
+INFO 2019-03-04 11:51:38,999 - Movie count = 7
+INFO 2019-03-04 11:51:40,111 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Dominic_West
+INFO 2019-03-04 11:51:40,111 - Actor count = 7
+INFO 2019-03-04 11:51:40,559 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/The_Ides_of_March_(2011_film)
+INFO 2019-03-04 11:51:40,559 - Movie count = 8
+INFO 2019-03-04 11:51:41,765 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Caitriona_Balfe
+INFO 2019-03-04 11:51:41,765 - Actor count = 8
+INFO 2019-03-04 11:51:42,207 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/The_American_(2010_film)
+INFO 2019-03-04 11:51:42,207 - Movie count = 9
+INFO 2019-03-04 11:51:43,384 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Giancarlo_Esposito
+INFO 2019-03-04 11:51:43,384 - Actor count = 9
+INFO 2019-03-04 11:51:43,969 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Up_in_the_Air_(2009_film)
+INFO 2019-03-04 11:51:43,969 - Movie count = 10
+INFO 2019-03-04 11:51:45,077 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Josh_Brolin
+INFO 2019-03-04 11:51:45,077 - Actor count = 10
+WARNING 2019-03-04 11:51:45,437 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Gloria_Bell
+INFO 2019-03-04 11:51:46,837 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/George_Clooney
+INFO 2019-03-04 11:51:46,837 - Actor count = 11
+INFO 2019-03-04 11:51:47,279 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Maggie%27s_Plan
+INFO 2019-03-04 11:51:47,279 - Movie count = 11
+INFO 2019-03-04 11:51:48,435 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Alden_Ehrenreich
+INFO 2019-03-04 11:51:48,435 - Actor count = 12
+INFO 2019-03-04 11:51:48,899 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Still_Alice
+INFO 2019-03-04 11:51:48,899 - Movie count = 12
+INFO 2019-03-04 11:51:50,035 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Ralph_Fiennes
+INFO 2019-03-04 11:51:50,036 - Actor count = 13
+INFO 2019-03-04 11:51:50,474 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/What_Maisie_Knew_(film)
+INFO 2019-03-04 11:51:50,474 - Movie count = 13
+INFO 2019-03-04 11:51:51,804 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Jonah_Hill
+INFO 2019-03-04 11:51:51,805 - Actor count = 14
+INFO 2019-03-04 11:51:52,248 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/The_Kids_Are_All_Right_(film)
+INFO 2019-03-04 11:51:52,248 - Movie count = 14
+WARNING 2019-03-04 11:51:53,590 - Cannot fetch complete data from actor_url: https://wikipedia.org/wiki/Scarlett_Johansson
+INFO 2019-03-04 11:51:54,031 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/A_Single_Man
+INFO 2019-03-04 11:51:54,031 - Movie count = 15
+INFO 2019-03-04 11:51:55,245 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Frances_McDormand
+INFO 2019-03-04 11:51:55,245 - Actor count = 15
+INFO 2019-03-04 11:51:55,761 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Children_of_Men
+INFO 2019-03-04 11:51:55,761 - Movie count = 16
+INFO 2019-03-04 11:51:57,021 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Tilda_Swinton
+INFO 2019-03-04 11:51:57,021 - Actor count = 16
+INFO 2019-03-04 11:51:57,506 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Far_from_Heaven
+INFO 2019-03-04 11:51:57,506 - Movie count = 17
+INFO 2019-03-04 11:51:58,631 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Channing_Tatum
+INFO 2019-03-04 11:51:58,632 - Actor count = 17
+INFO 2019-03-04 11:51:59,117 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/The_Hours_(film)
+INFO 2019-03-04 11:51:59,117 - Movie count = 18
+WARNING 2019-03-04 11:51:59,117 - Cannot fetch complete data from actor_url: https://wikipedia.org/wiki/George_Clooney
+INFO 2019-03-04 11:51:59,589 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Magnolia_(film)
+INFO 2019-03-04 11:51:59,589 - Movie count = 19
+INFO 2019-03-04 11:52:00,791 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Hugh_Laurie
+INFO 2019-03-04 11:52:00,791 - Actor count = 18
+WARNING 2019-03-04 11:52:01,196 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Ford_v._Ferrari
+INFO 2019-03-04 11:52:02,355 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Britt_Robertson
+INFO 2019-03-04 11:52:02,355 - Actor count = 19
+WARNING 2019-03-04 11:52:02,721 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Honey_Boy_(film)
+INFO 2019-03-04 11:52:03,700 - Successfully fetch data from actor_url: https://wikipedia.org/wiki/Raffey_Cassidy
+INFO 2019-03-04 11:52:03,700 - Actor count = 20
+INFO 2019-03-04 11:52:04,190 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Holmes_%26_Watson
+INFO 2019-03-04 11:52:04,190 - Movie count = 20
+INFO 2019-03-04 11:52:04,737 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/A_Quiet_Place_(film)
+INFO 2019-03-04 11:52:04,737 - Movie count = 21
+WARNING 2019-03-04 11:52:05,129 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/The_Titan_(film)
+INFO 2019-03-04 11:52:05,555 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Wonder_(film)
+INFO 2019-03-04 11:52:05,555 - Movie count = 22
+WARNING 2019-03-04 11:52:05,555 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Suburbicon
+WARNING 2019-03-04 11:52:05,934 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/That_Good_Night_(film)
+INFO 2019-03-04 11:52:06,341 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/The_Man_with_the_Iron_Heart_(film)
+INFO 2019-03-04 11:52:06,342 - Movie count = 23
+WARNING 2019-03-04 11:52:06,838 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Star_Wars:_Episode_IX
+WARNING 2019-03-04 11:52:07,301 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Gomez_Addams
+WARNING 2019-03-04 11:52:07,697 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/The_Addams_Family_(2019_film)
+WARNING 2019-03-04 11:52:08,042 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Triple_Frontier_(film)
+WARNING 2019-03-04 11:52:08,590 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Spider-Man_2099
+INFO 2019-03-04 11:52:09,197 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Spider-Man:_Into_the_Spider-Verse
+INFO 2019-03-04 11:52:09,197 - Movie count = 24
+INFO 2019-03-04 11:52:09,620 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Life_Itself_(2018_film)
+INFO 2019-03-04 11:52:09,620 - Movie count = 25
+WARNING 2019-03-04 11:52:10,269 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Paul_Gauguin
+INFO 2019-03-04 11:52:10,745 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/At_Eternity%27s_Gate_(film)
+INFO 2019-03-04 11:52:10,745 - Movie count = 26
+WARNING 2019-03-04 11:52:11,168 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Peter_Malkin
+WARNING 2019-03-04 11:52:12,859 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Special:BookSources/1845966651
+WARNING 2019-03-04 11:52:13,399 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/International_Standard_Book_Number
+WARNING 2019-03-04 11:52:13,805 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Frank_Sanello
+WARNING 2019-03-04 11:52:15,542 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Special:BookSources/0312285655
+WARNING 2019-03-04 11:52:15,542 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/International_Standard_Book_Number
+WARNING 2019-03-04 11:52:17,309 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Special:BookSources/1852270233
+WARNING 2019-03-04 11:52:17,310 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/International_Standard_Book_Number
+WARNING 2019-03-04 11:52:18,909 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Special:BookSources/1932270094
+WARNING 2019-03-04 11:52:18,909 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/International_Standard_Book_Number
+WARNING 2019-03-04 11:52:19,288 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Mark_Bego
+WARNING 2019-03-04 11:52:19,623 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Jungleland_(film)
+WARNING 2019-03-04 11:52:19,958 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Against_All_Enemies_(film)
+WARNING 2019-03-04 11:52:20,427 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Cameron_Todd_Willingham
+WARNING 2019-03-04 11:52:20,766 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Trial_by_Fire_(2018_film)
+INFO 2019-03-04 11:52:21,215 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Tulip_Fever
+INFO 2019-03-04 11:52:21,215 - Movie count = 27
+WARNING 2019-03-04 11:52:21,728 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Jan_Kubi%C5%A1
+WARNING 2019-03-04 11:52:21,728 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/The_Man_with_the_Iron_Heart_(film)
+WARNING 2019-03-04 11:52:21,728 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Money_Monster
+WARNING 2019-03-04 11:52:22,207 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Louis_Zamperini
+INFO 2019-03-04 11:52:22,675 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Unbroken_(film)
+INFO 2019-03-04 11:52:22,675 - Movie count = 28
+INFO 2019-03-04 11:52:23,111 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Colette_(2018_film)
+INFO 2019-03-04 11:52:23,111 - Movie count = 29
+WARNING 2019-03-04 11:52:23,681 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Lord_Richard_Croft
+INFO 2019-03-04 11:52:24,119 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Tomb_Raider_(film)
+INFO 2019-03-04 11:52:24,119 - Movie count = 30
+INFO 2019-03-04 11:52:24,646 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/The_Square_(2017_film)
+INFO 2019-03-04 11:52:24,646 - Movie count = 31
+INFO 2019-03-04 11:52:25,228 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Finding_Dory
+INFO 2019-03-04 11:52:25,228 - Movie count = 32
+WARNING 2019-03-04 11:52:25,228 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Money_Monster
+WARNING 2019-03-04 11:52:25,872 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Ernest_Hemingway
+INFO 2019-03-04 11:52:26,273 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Genius_(2016_film)
+INFO 2019-03-04 11:52:26,273 - Movie count = 33
+INFO 2019-03-04 11:52:26,795 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Testament_of_Youth_(film)
+INFO 2019-03-04 11:52:26,795 - Movie count = 34
+INFO 2019-03-04 11:52:27,275 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Pride_(2014_film)
+INFO 2019-03-04 11:52:27,275 - Movie count = 35
+WARNING 2019-03-04 11:52:27,275 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Ford_v._Ferrari
+WARNING 2019-03-04 11:52:27,275 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Money_Monster
+INFO 2019-03-04 11:52:27,715 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Escape_Plan_(film)
+INFO 2019-03-04 11:52:27,715 - Movie count = 36
+INFO 2019-03-04 11:52:28,170 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Now_You_See_Me_(film)
+INFO 2019-03-04 11:52:28,170 - Movie count = 37
+INFO 2019-03-04 11:52:28,544 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Crush_(2013_film)
+INFO 2019-03-04 11:52:28,544 - Movie count = 38
+WARNING 2019-03-04 11:52:28,874 - Cannot fetch complete data from movie_url: https://en.wikipedia.org/wiki/Lost_Angeles
+INFO 2019-03-04 11:52:29,319 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/Super_8_(2011_film)
+INFO 2019-03-04 11:52:29,319 - Movie count = 39
+INFO 2019-03-04 11:52:29,900 - Successfully fetch data from film_url: https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_(film)
+INFO 2019-03-04 11:52:29,900 - Movie count = 40
+INFO 2019-03-04 11:52:29,902 - Scraped data is written as JSON format into >>> small_data.json
+INFO 2019-03-04 11:52:29,902 - Crawler done.
+INFO 2019-03-04 11:52:29,902 - --------------------------------Report--------------------------------
+INFO 2019-03-04 11:52:29,902 - Successfully Fetch movie count: 40 Actually visited movie count: 68 
+INFO 2019-03-04 11:52:29,902 - Successfully Fetch actor count: 20 Actually visited actor count: 22 
+INFO 2019-03-04 11:52:29,902 - ----------------------------------------------------------------------

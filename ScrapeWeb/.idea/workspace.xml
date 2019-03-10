@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d38e3f2-47ac-4361-9034-a42f66525d41" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_graph_TestGraph_test_list_actors_for_a_year.coverage" NAME="Unittests for test_graph.TestGraph.test_list_actors_for_a_year Coverage Results" MODIFIED="1551118854936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_graph_TestGraph_test_update_by_dict.coverage" NAME="Unittests for test_graph.TestGraph.test_update_by_dict Coverage Results" MODIFIED="1551726477419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1551721886010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Crawler" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_in_test_root_handler_py.coverage" NAME="Unittests in test_root_handler.py Coverage Results" MODIFIED="1551723779884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_Request_handler" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_root_handler_TestRootHandler_test_get_actor_by_name.coverage" NAME="Unittests for test_root_handler.TestRootHandler.test_get_actor_by_name Coverage Results" MODIFIED="1551723318492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_Request_handler" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_root_handler_TestRootHandler_test_put_movie_info.coverage" NAME="Unittests for test_root_handler.TestRootHandler.test_put_movie_info Coverage Results" MODIFIED="1551723645207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_Request_handler" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_in_test_graph_py.coverage" NAME="Unittests in test_graph.py Coverage Results" MODIFIED="1551726339352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_graph_TestGraph_test_remove_neighbor.coverage" NAME="Unittests for test_graph.TestGraph.test_remove_neighbor Coverage Results" MODIFIED="1551724995870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_graph_TestGraph_test_query.coverage" NAME="Unittests for test_graph.TestGraph.test_query Coverage Results" MODIFIED="1551726330884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_graph_TestGraph_test_get_edge.coverage" NAME="Unittests for test_graph.TestGraph.test_get_edge Coverage Results" MODIFIED="1551119237924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_root_handler_TestRootHandler_test_get_movies_by_attr.coverage" NAME="Unittests for test_root_handler.TestRootHandler.test_get_movies_by_attr Coverage Results" MODIFIED="1551723187737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_Request_handler" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_graph_TestGraph_test_find_movie_gross.coverage" NAME="Unittests for test_graph.TestGraph.test_find_movie_gross Coverage Results" MODIFIED="1551118313178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_graph_TestGraph_test_get_movie_node.coverage" NAME="Unittests for test_graph.TestGraph.test_get_movie_node Coverage Results" MODIFIED="1551119179715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Main_crawler.coverage" NAME="Main_crawler Coverage Results" MODIFIED="1551720389473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Crawler" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1551831404765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Create_api.coverage" NAME="Create_api Coverage Results" MODIFIED="1551689889983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_root_handler_TestRootHandler_test_get_movie_by_name.coverage" NAME="Unittests for test_root_handler.TestRootHandler.test_get_movie_by_name Coverage Results" MODIFIED="1551723372792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_Request_handler" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Root_handler.coverage" NAME="Root_handler Coverage Results" MODIFIED="1551830864037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_Request_handler" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_graph_TestGraph.coverage" NAME="Unittests for test_graph.TestGraph Coverage Results" MODIFIED="1551831557995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_graph_TestGraph_test_list_movies_of_actor.coverage" NAME="Unittests for test_graph.TestGraph.test_list_movies_of_actor Coverage Results" MODIFIED="1551118318501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_in_JsonGraph.coverage" NAME="Unittests in JsonGraph Coverage Results" MODIFIED="1551726485957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_root_handler_TestRootHandler_test_post_movies_info.coverage" NAME="Unittests for test_root_handler.TestRootHandler.test_post_movies_info Coverage Results" MODIFIED="1551723652944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_Request_handler" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_graph_TestGraph_test_save_to_json.coverage" NAME="Unittests for test_graph.TestGraph.test_save_to_json Coverage Results" MODIFIED="1551119608380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_graph_TestGraph_test_query_by_actor_info.coverage" NAME="Unittests for test_graph.TestGraph.test_query_by_actor_info Coverage Results" MODIFIED="1551725900238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_root_handler_TestRootHandler_test_post_actor_info.coverage" NAME="Unittests for test_root_handler.TestRootHandler.test_post_actor_info Coverage Results" MODIFIED="1551723649345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_Request_handler" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_graph_TestGraph_test_list_actors_of_movie.coverage" NAME="Unittests for test_graph.TestGraph.test_list_actors_of_movie Coverage Results" MODIFIED="1551118444357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_root_handler_TestRootHandler_test_delete_actor_by_name.coverage" NAME="Unittests for test_root_handler.TestRootHandler.test_delete_actor_by_name Coverage Results" MODIFIED="1551723655871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_Request_handler" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_root_handler_TestRootHandler.coverage" NAME="Unittests for test_root_handler.TestRootHandler Coverage Results" MODIFIED="1551831623380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_Request_handler" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_graph_TestGraph_test_list_top_n_actors_with_highest_grossing.coverage" NAME="Unittests for test_graph.TestGraph.test_list_top_n_actors_with_highest_grossing Coverage Results" MODIFIED="1551118675709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_root_handler_TestRootHandler_test_get_actors_by_attr.coverage" NAME="Unittests for test_root_handler.TestRootHandler.test_get_actors_by_attr Coverage Results" MODIFIED="1551722864024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_Request_handler" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_root_handler_TestRootHandler_test_delete_movie_by_name.coverage" NAME="Unittests for test_root_handler.TestRootHandler.test_delete_movie_by_name Coverage Results" MODIFIED="1551723658601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_Request_handler" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_graph_TestGraph_test_list_top_n_oldest_actors.coverage" NAME="Unittests for test_graph.TestGraph.test_list_top_n_oldest_actors Coverage Results" MODIFIED="1551118678146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonGraph" />
+    <SUITE FILE_PATH="coverage/ScrapeWeb$Unittests_for_test_root_handler_TestRootHandler_test_put_actor_info.coverage" NAME="Unittests for test_root_handler.TestRootHandler.test_put_actor_info Coverage Results" MODIFIED="1551723449491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_Request_handler" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="409" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JsonGraph/Graph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3075">
+              <caret line="205" column="47" selection-start-line="205" selection-start-column="47" selection-end-line="205" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JsonGraph/test_graph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1358">
+              <caret line="91" selection-start-line="91" selection-end-line="91" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Api_Request_handler/test_root_handler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Api_Request_handler/Root_handler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1271">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JsonGraph/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JsonGraph/Data_analysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JsonGraph/Data_visualization.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>info</find>
+      <find>neighbors</find>
+      <find>json_dict</find>
+      <find>logging</find>
+      <find>print</find>
+      <find>add_edge</find>
+      <find>fname</find>
+      <find>bfs_craw</find>
+      <find>test</find>
+      <find>gross</find>
+      <find>connections</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Crawler.py" />
+        <option value="$PROJECT_DIR$/Actor_crawler.py" />
+        <option value="$PROJECT_DIR$/Crawler.py" />
+        <option value="$PROJECT_DIR$/venv/Film_crawler.py" />
+        <option value="$PROJECT_DIR$/Crawler/Crawler.py" />
+        <option value="$PROJECT_DIR$/Graph/Graph_library.py" />
+        <option value="$PROJECT_DIR$/JsonGraph/Graph_node.py" />
+        <option value="$PROJECT_DIR$/Crawler/Film_crawler.py" />
+        <option value="$PROJECT_DIR$/Crawler/Actor_crawler.py" />
+        <option value="$PROJECT_DIR$/JsonGraph/Edge.py" />
+        <option value="$PROJECT_DIR$/Query_util.py" />
+        <option value="$PROJECT_DIR$/Create_api.py" />
+        <option value="$PROJECT_DIR$/Api_Request_handler/__init__.py" />
+        <option value="$PROJECT_DIR$/Api_Request_handler/Query_util.py" />
+        <option value="$PROJECT_DIR$/JsonGraph/Data_analysis.py" />
+        <option value="$PROJECT_DIR$/JsonGraph/Graph.py" />
+        <option value="$PROJECT_DIR$/JsonGraph/__init__.py" />
+        <option value="$PROJECT_DIR$/JsonGraph/Actor_node.py" />
+        <option value="$PROJECT_DIR$/JsonGraph/Movie_node.py" />
+        <option value="$PROJECT_DIR$/Crawler/__init__.py" />
+        <option value="$PROJECT_DIR$/Crawler/Main_crawler.py" />
+        <option value="$PROJECT_DIR$/Api_Request_handler/test_root_handler.py" />
+        <option value="$PROJECT_DIR$/JsonGraph/test_graph.py" />
+        <option value="$PROJECT_DIR$/JsonGraph/Data_visualization.py" />
+        <option value="$PROJECT_DIR$/Api_Request_handler/Root_handler.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ScrapeWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScrapeWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScrapeWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScrapeWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Api_Request_handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScrapeWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScrapeWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="JsonGraph" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/provided_json" />
+      <recent name="$PROJECT_DIR$/Api_Request_handler" />
+      <recent name="$PROJECT_DIR$/Crawler" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_root_handler.TestRootHandler">
+    <configuration name="Root_handler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ScrapeWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Api_Request_handler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Api_Request_handler/Root_handler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ScrapeWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JsonGraph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JsonGraph/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_graph.TestGraph" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScrapeWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JsonGraph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_graph.TestGraph&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_root_handler.TestRootHandler" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScrapeWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Api_Request_handler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_root_handler.TestRootHandler&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in JsonGraph" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScrapeWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JsonGraph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/JsonGraph&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_root_handler.TestRootHandler" />
+        <item itemvalue="Python tests.Unittests for test_graph.TestGraph" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.Root_handler" />
+        <item itemvalue="Python tests.Unittests in JsonGraph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d38e3f2-47ac-4361-9034-a42f66525d41" name="Default Changelist" comment="" />
+      <created>1550965274438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550965274438</updated>
+      <workItem from="1551116197040" duration="12773000" />
+      <workItem from="1551565221728" duration="71273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_graph_TestGraph_test_update_by_dict - 2019.03.04 at 13h 07m 58s.xml">
+      <configuration name="Unittests for test_graph.TestGraph.test_update_by_dict" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_JsonGraph - 2019.03.04 at 13h 08m 09s.xml">
+      <configuration name="Unittests in JsonGraph" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_graph_TestGraph - 2019.03.04 at 16h 57m 07s.xml">
+      <configuration name="Unittests for test_graph.TestGraph" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_root_handler_TestRootHandler - 2019.03.05 at 01h 28m 55s.xml">
+      <configuration name="Unittests for test_root_handler.TestRootHandler" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_root_handler_TestRootHandler - 2019.03.05 at 01h 29m 21s.xml">
+      <configuration name="Unittests for test_root_handler.TestRootHandler" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_graph_TestGraph - 2019.03.05 at 17h 45m 48s.xml">
+      <configuration name="Unittests for test_graph.TestGraph" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_root_handler_TestRootHandler - 2019.03.05 at 17h 46m 55s.xml">
+      <configuration name="Unittests for test_root_handler.TestRootHandler" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_graph_TestGraph - 2019.03.05 at 18h 19m 22s.xml">
+      <configuration name="Unittests for test_graph.TestGraph" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_root_handler_TestRootHandler - 2019.03.05 at 18h 19m 59s.xml">
+      <configuration name="Unittests for test_root_handler.TestRootHandler" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_root_handler_TestRootHandler - 2019.03.05 at 18h 20m 25s.xml">
+      <configuration name="Unittests for test_root_handler.TestRootHandler" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84046000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18884121" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.32953367" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49928468" weight="0.2" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3284974" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32970297" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.19009902" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.23012048" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.23465346" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" sideWeight="0.4993742" weight="0.32904148" />
+      <window_info anchor="right" id="SciView" order="4" sideWeight="0.042168673" weight="0.56795424" />
+      <window_info anchor="right" id="Coverage" order="5" sideWeight="0.9578313" side_tool="true" weight="0.3590844" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Film_crawler.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="736" selection-start-line="736" selection-end-line="736" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsonGraph/Graph_node.py" />
+    <entry file="file://$PROJECT_DIR$/Crawler/Actor_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cityscholar_reflection.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsonGraph/Edge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api_Request_handler/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crawler/Film_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="77" column="46" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crawler/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="1956" selection-start-line="1956" selection-end-line="1956" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="614" selection-start-line="614" selection-end-line="614" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crawler/Main_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="193" column="29" selection-start-line="193" selection-start-column="29" selection-end-line="193" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsonGraph/Actor_node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="81" column="18" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsonGraph/Movie_node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsonGraph/Graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3075">
+          <caret line="205" column="47" selection-start-line="205" selection-start-column="47" selection-end-line="205" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsonGraph/Data_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api_Request_handler/Query_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="15" lean-forward="true" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsonGraph/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsonGraph/test_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1358">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api_Request_handler/test_root_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsonGraph/Data_visualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api_Request_handler/Root_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1271">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

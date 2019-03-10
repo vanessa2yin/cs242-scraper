@@ -1,0 +1,8 @@
+cityscholar_reflection.txt
+
+Please write a 1-2 paragraph response to the following questions:
+
+1. What kind of assignment would you add to this course?
+	Since for now I only know the assignments1 and 2, I cannot give a wise suggestion. But if there is no webpage development in this course, I will definitely suggest adding a webpage development into the course because it is a very common skill in industry environment. It can be split into three part: backend development, frontend development and production (publish) process.
+2. Give us some thoughts of how City Scholar discussions for this course can be improved.
+	I already expect a large workload of this course and I prepared for it by choosing only 2 CS course this semetser. However, this is still over my expecation... Maybe it's because I'm a little bit perfectionist. I almost have no weekend and no life after assignment1. So to be honest, I think the workload of some week can be modified a little bit. For example, I spent 28 hours on the web crawler (assignment2) because I'm not that familiar with python (and also other two languages) and I have not done crawler before. So after I scraped the data from wikipedia, it's already been around 12 hours. So I really don't have motivation for the following graph process. However, since I want to do my best, I still spend 28 hours to finish this assignment. So if I can give a suggestion, maybe just reduce the workload a little bit.
